@@ -11,17 +11,17 @@ _We have entered a new and thriving logistics-oriented company. This company is 
 
 Our first task is to write a sql query that feeds a report that allows the central office to know all the trips made. This report is expected to show, for each trip, the number of packages transported and the total amount of their fares. The results must be ordered from the newest to the oldest and must also exclude trips with more than 3 packages. Note: you should only write the query, not make the report.
 
-> https://www.mycompiler.io/view/1bXLimu (you will need to fork it to edit it)
+> [https://www.mycompiler.io/view/1bXLimu](https://www.mycompiler.io/view/10K86HhhTMV) (you will need to fork it to edit it)
 
 The next day we noticed that the backend team is a bit busy so we decided to show off our PHP knowledge and help them. They tell us that they need help with the destination search engine. These destinations are organized as a hierarchy in a tree and since they come from an external service that is always changing, they cannot count on the tree always having the same number of levels and the team ask us if we can implement the function that They need to search the tree. It receives as arguments, the tree with the destinations and the text to search for (in any part of the name).
 
-> https://phpsandbox.io/n/hhrr-search-into-tree-gbizl (you will need to fork it to edit)
+> [https://phpsandbox.io/n/hhrr-search-into-tree-gbizl](https://phpsandbox.io/n/destination-search-vicif) (you will need to fork it to edit)
 
 > **Extra**: Instead of searching by text you can receive the search criteria as a function (higher-order function)
 
 Due to our good work the CTO of the company decides to put our JS skills to the test with a peculiar challenge. We are given a json that includes the issued invoices and we are asked to calculate the total due (of the unpaid invoices) by type of customer. It's a piece of cake... but we're not allowed to use loops (for, while, do while) or the forEach method. It is also not allowed to use recursion, Gulp.
 
-> https://replit.com/@IvanStadius/HHRR-Declaratividad#index.js (you will need to fork it to edit it)
+> [https://replit.com/@IvanStadius/HHRR-Declaratividad#index.js](https://replit.com/@IvanStadius/HHRR-Declaratividad#index.js)(you will need to fork it to edit it)
 
 Now, having proven our worth, we are allowed to play with the big boys. We are going to participate in the development of the application's core. The business rules are as follows:
 

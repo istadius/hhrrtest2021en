@@ -9,7 +9,7 @@ Given the nature of remote resolution of the following exercises, it's easy for 
 
 _We have entered a new and thriving logistics-oriented company. This company is responsible for the transport of goods around the world and is in the process of digitizing its activities. We are the rookie so we must build a reputation._
 
-Our first task is to write a sql query that feeds a report that allows the central office to know all the trips made. This report is expected to show, for each trip, the number of packages transported and the total amount of their fares. The results must be ordered from the newest to the oldest and must also exclude trips with more than 3 packages. Note: you should only write the query, not make the report.
+Our first task is to write a sql query that feeds a report that allows the central office to know all the trips made. This report is expected to show, for each trip, the number of packages transported and the total amount of their rates. The results must be ordered from the newest to the oldest and must also exclude trips with more than 3 packages. Note: you should only write the query, not make the report.
 
 > [https://www.mycompiler.io/view/1bXLimu](https://www.mycompiler.io/view/10K86HhhTMV) (you will need to fork it to edit it)
 
